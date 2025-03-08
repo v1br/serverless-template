@@ -14,7 +14,7 @@
     <br />
     <a href="https://github.com/v1br/turborepo-template">View Repo</a>
     |
-    <a href="https://github.com/vibhor-agrawal/turborepo-template/issues">Report Bug</a>
+    <a href="https://github.com/v1br/turborepo-template/issues">Report Bug</a>
     |
     <a href="https://github.com/v1br">More Projects</a>
   </p>
